@@ -2,8 +2,8 @@
 
 ## Contents
 | Content | Content | Content |
-| ------ | ------ |
-| [Introduction](#introduction) | [Inheritance](#inheritance) |
+| ------- | ------- | ------- |
+| [Introduction](#introduction) | [Inheritance](#inheritance) |  |
 | [JDK and JRE and JVM](#jdk-and-jre-and-jvm) | [Polymerphism](#polymerphism) |
 | [Datatypes](#datatypes) | [Abstraction](#abstraction) |
 | [OOPs](#oops) | [Encapsulation](#encapsulation) |
