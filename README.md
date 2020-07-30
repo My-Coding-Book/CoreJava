@@ -15,5 +15,43 @@
 | 9. | [Final keyword](#final-keyword) |
 
 
+## Introduction
+
+## JDK and JRE and JVM
+
+## Datatypes
+
+## OOPs
+
+## Object
+
+## Class
+
+## Constructor
+
+## Static keyword
+
+## Final keyword
+
+## Encapsulation
+
+## Inheritance
+
+## Polymerphism
+
+## Abstraction
+
+## Collection
+
+## Streaming
+
+## Update of New Release
+
+## Interview Questions
+
+| # | Questions |
+| - | --------- |
+| 1 | [Why Java is not a purely Object-Oriented Language?](#Why-Java-is-not-a-purely-Object-Oriented-Language?) |
 
 
+#### Why Java is not a purely Object-Oriented Language?
