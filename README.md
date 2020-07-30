@@ -9,8 +9,8 @@
 | 3. | [Datatypes](#datatypes) | 13. | [Abstraction](#abstraction) |
 | 4. | [OOPs](#oops) | 14. | [Collection](#collection) |
 | 5. | [Object](#object) | 15. | [Streaming](#streaming) |
-| 6. | [Class](#class) |
-| 7. | [Constructor](#constructor) |
+| 6. | [Class](#class) | 16. | [Update of New Release](#Update-of-New-Release) |
+| 7. | [Constructor](#constructor) | 17. | [Interview Questions](#Interview-Questions) |
 | 8. | [Static keyword](#static-keyword) |
 | 9. | [Final keyword](#final-keyword) |
 
