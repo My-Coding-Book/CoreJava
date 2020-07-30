@@ -1,17 +1,16 @@
 # CoreJava
 
 ## Contents
-| Topics | Topics |
+
 | ------ | ------ |
-|  | [Encapsulation](#encapsulation) |
 | [Introduction](#introduction) | [Inheritance](#inheritance) |
 | [JDK and JRE and JVM](#jdk-and-jre-and-jvm) | [Polymerphism](#polymerphism) |
 | [Datatypes](#datatypes) | [Abstraction](#abstraction) |
-| [OOPs](#oops) | [Collection](#collection) |
-| [Object](#object) | [Streaming](#streaming) |
-| [Class](#class) | [Update of New Release](#Update-of-New-Release) |
-| [Constructor](#constructor) | [Interview Questions](#Interview-Questions) |
-| [Static keyword](#static-keyword) |
+| [OOPs](#oops) | [Encapsulation](#encapsulation) |
+| [Object](#object) | [Collection](#collection) |
+| [Class](#class) | [Streaming](#streaming) |
+| [Constructor](#constructor) | [Update of New Release](#Update-of-New-Release) |
+| [Static keyword](#static-keyword) |[Interview Questions](#Interview-Questions) |
 | [Final keyword](#final-keyword) |
 
 
