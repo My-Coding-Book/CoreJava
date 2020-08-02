@@ -16,7 +16,16 @@
 
 ## Introduction
 
-
+* Java is a
+  * high level
+  * robust
+  * simple
+  * portable
+  * secure
+  * stable
+  * Object Oriented programming language
+* Java is not a pure object oriented lanuage, because it supports primirtive data type.
+  > Languages that supports or have features which treats everything inside program as objects, and doesn’t support primitive datatype(like int, char, float, boolean)
 
 ## JDK and JRE and JVM
 
