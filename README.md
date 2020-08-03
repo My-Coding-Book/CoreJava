@@ -25,7 +25,9 @@
   * stable
   * Object Oriented programming language
 * Java is not a pure object oriented lanuage, because it supports primirtive data type.
-  > **Important :** Languages that supports or have features which treats everything inside program as objects, and doesn’t support primitive datatype(like int, char, float, boolean)
+  > Languages that supports or have features which treats everything inside program as objects, and doesn’t support primitive datatype(like int, char, float, boolean)
+* Java is platform independent.
+ > JRE makes java platform independent. Once your java code is compiled
 
 ## JDK and JRE and JVM
 
