@@ -69,11 +69,14 @@
   
   * Web Applications
     * An application, that is installed and run in a powerful machine and can be accessed from remote machine by multiple users concurrently using a client application (browsers)
-    * Developers arround world are using Servlets, Struts, JSP, Spring, Hibernate, etc.
+    * Developers around the world are using Servlets, Struts, JSP, Spring, Hibernate, etc.
     * Some realtime examples are Social media websites, -commerce websites, bank applications, etc.
     
   * Enterprise Applications
-    * 
+    * An application that improves productivity and efficiency of an organization.
+    * Examples are billing systems, customer relationship management systems and supplier relationship management systems.
+  
+  * Mobile Application
   
 
 ## JDK and JRE and JVM
