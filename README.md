@@ -63,6 +63,17 @@
 * Types of Java Applications
  
   * Standalone Applications
+    * Applications that are machine-specific, one can use them directly after installation in local machine.
+    * Java developers use AWT, Swing, JavaFX to develop.
+    * Examples are Media Players, Antivirus Softwares, System Settings, etc.
+  
+  * Web Applications
+    * An application, that is installed and run in a powerful machine and can be accessed from remote machine by multiple users concurrently using a client application (browsers)
+    * Developers arround world are using Servlets, Struts, JSP, Spring, Hibernate, etc.
+    * Some realtime examples are Social media websites, -commerce websites, bank applications, etc.
+    
+  * Enterprise Applications
+    * 
   
 
 ## JDK and JRE and JVM
