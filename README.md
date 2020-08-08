@@ -101,40 +101,39 @@
 #### Non-primitive types are
   1. **String**
   
-  * String class is defined in java.lang package as below,
+   * String class is defined in java.lang package as below,
 
-  ```java
-  public final class String extends Object implements Serializable, Comparable<String>, CharSequence {
-    // fields
-    // constructors
-    // methods
-  }
-  ```
+    ```java
+    public final class String extends Object implements Serializable, Comparable<String>, CharSequence {
+      // fields
+      // constructors
+      // methods
+    }
+    ```
   
-  * Sequence of characters
+   * Sequence of characters
   
-  ```java
-  String str0 = "India";
+    ```java
+    String str0 = "India";
 
-  char[] data = { 'I', 'n', 'd', 'i', 'a' };
-  String str1 = new String(data);
-  ```
-  
-  * Each string literals are one object/instance of String class.
-  * Strings are constant, their values cannot be changed after they are created. String objects are immutable.
-  
-  **Methods in String class**
-  String class provides a lot of methods to perform many operations on string objects. They are,
-  
-  1. **charAt(int index)**
-  * Returns the character located at the specific index.
-  * Indexing starts from 0-zero.
-  
-  ```java
-  String str = "India";
+    char[] data = { 'I', 'n', 'd', 'i', 'a' };
+    String str1 = new String(data);
+    ```
 
-  System.out.println(str.charAt(3)); // i
-  ```
+   * Each string literals are one object/instance of String class.
+   * Strings are constant, their values cannot be changed after they are created. String objects are immutable.
+  
+   **Methods in String class**
+   
+    1. **charAt(int index)**
+     * Returns the character located at the specific index.
+     * Indexing starts from 0-zero.
+
+      ```java
+      String str = "India";
+
+      System.out.println(str.charAt(3)); // i
+      ```
 
 
   
