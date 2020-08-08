@@ -103,23 +103,23 @@
   
    * String class is defined in java.lang package as below,
 
-    ```java
-    public final class String extends Object implements Serializable, Comparable<String>, CharSequence {
-      // fields
-      // constructors
-      // methods
-    }
-    ```
+   ```java
+   public final class String extends Object implements Serializable, Comparable<String>, CharSequence {
+     // fields
+     // constructors
+     // methods
+   }
+   ```
   
    * Sequence of characters
   
-    ```java
-    String str0 = "India";
+   ```java
+   String str0 = "India";
 
-    char[] data = { 'I', 'n', 'd', 'i', 'a' };
-    String str1 = new String(data);
-    ```
-
+   char[] data = { 'I', 'n', 'd', 'i', 'a' };
+   String str1 = new String(data);
+   ```
+   > In above example we have created 2 String objects and both are same.
    * Each string literals are one object/instance of String class.
    * Strings are constant, their values cannot be changed after they are created. String objects are immutable.
   
