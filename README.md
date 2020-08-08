@@ -120,20 +120,33 @@
    String str1 = new String(data);
    ```
    > In above example we have created 2 String objects and both are same.
+   
    * Each string literals are one object/instance of String class.
    * Strings are constant, their values cannot be changed after they are created. String objects are immutable.
   
    **Methods in String class**
    
-    1. **charAt(int index)**
-     * Returns the character located at the specific index.
-     * Indexing starts from 0-zero.
+   **charAt(int index)**
+   
+    * Returns the character located at the specific index.
+    * Indexing starts from 0-zero.
 
-      ```java
-      String str = "India";
+     ```java
+     String str = "India";
 
-      System.out.println(str.charAt(3)); // i
-      ```
+     System.out.println(str.charAt(3)); // i
+     ```
+
+   **equalsIgnoreCase(String secondString)**
+   
+   * Compares the equality of two Strings, and ignores the case (upper or lower)
+   * Returns a boolean value (true/false)
+   
+   ```java
+     String str = "India";
+
+     System.out.println(str.equalsIgnoreCase("India")); // true
+     ```
 
 
   
