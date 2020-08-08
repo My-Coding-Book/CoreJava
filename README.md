@@ -99,8 +99,14 @@
   * double
 
 #### Non-primitive types are
-  1. String
-  1. Array
+  1. **String**
+  
+  * String class is defined in java.lang package as below,
+
+  ```java
+  public final class String extends Object implements Serializable, Comparable<String>, CharSequence
+  ```
+  1. **Array**
 
 
 ## OOPs
