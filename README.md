@@ -83,6 +83,26 @@
 
 ## Datatypes
 
+* Data types defines the value type which a variable will hold.
+* There are 2 categories of data types in java
+  * Primitive types
+  * Non-primitive types
+
+#### Primitive types are
+  * boolean
+  * char
+  * byte
+  * short
+  * int
+  * long
+  * float
+  * double
+
+#### Non-primitive types are
+  1. String
+  1. Array
+
+
 ## OOPs
 
 ## Object
