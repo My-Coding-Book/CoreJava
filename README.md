@@ -146,7 +146,7 @@
      String str = "India";
 
      System.out.println(str.equalsIgnoreCase("India")); // true
-     ```
+   ```
 
 
   
